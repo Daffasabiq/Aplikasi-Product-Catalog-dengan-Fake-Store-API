@@ -1,4 +1,4 @@
-# ShopX — Product Catalog
+# DaffaShop — Product Catalog
 
 Aplikasi Product Catalog berbasis React + Axios yang mengambil data dari **Fake Store API**.
 
